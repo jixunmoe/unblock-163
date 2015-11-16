@@ -5,8 +5,10 @@
 > @fangweizhi :
 >
 > Just substitute m2.music.126.net with p2.music.126.net, and the problem solves.
-> 
+>
 > Ref: [Unblock-Youku/488#154246771](https://github.com/Unblocker/Unblock-Youku/issues/488#issuecomment-154246771)
+
+下載：[Release 頁面](https://github.com/JixunMoe/unblock-163/releases)
 
 ## 安裝
 
@@ -32,9 +34,9 @@
 # 網易云音樂 @美國伺服器 -- 结束
 ```
 
-| 操作系统 | 文件路径 |
+| 操作系統 | 檔案路徑 |
 | -----: |:------ |
-| 视窗系统 | `C:\Windows\System32\drivers\etc\hosts` |
-| 其它系统 | `/etc/hosts` |
+| 視窗系統 | `C:\Windows\System32\drivers\etc\hosts` |
+| 其它系統 | `/etc/hosts` |
 
 你需要 Root / 管理員權限修改上述檔案。
