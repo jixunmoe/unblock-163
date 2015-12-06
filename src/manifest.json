@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "解鎖云音樂",
   "description": "一個簡單的解鎖云音樂的小擴展。",
-  "version": "0.1",
+  "version": "0.2",
   "background": {
     "persistent": true,
     "scripts": [ "background.js" ]
