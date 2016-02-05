@@ -3,6 +3,8 @@
 
 单纯的替换地址已经无效了，所有歌曲全面飘灰。
 
+请改用 [JixunMoe/proxy-163](https://github.com/JixunMoe/proxy-163)。
+
 ## 说明
 簡單的一個擴展，解鎖網易云音樂對海外 IP 的屏蔽
 
